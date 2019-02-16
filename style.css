@@ -1,0 +1,58 @@
+
+
+h1 {
+	color: rgb(241,157,148);
+	font-size: 100px;
+	padding: 100px;
+	margin: 0;
+	text-align: left;
+}
+
+
+a {text-decoration: none;}
+a:hover {color: rgb(241,157,148);}
+
+#banner {
+	text-align: center;
+	background-image: url("https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/39301807_10217790958912541_5704123439929884672_n.jpg?_nc_cat=109&_nc_ht=scontent-amt2-1.xx&oh=b82ba577660bbc28dfcb7c0c810d183a&oe=5CDCE54D");
+	background-image: center;
+	height: 100vh;
+	width: 100vw;
+}
+
+#banner p {
+	color: rgb(40,46,51);
+	font-size: 25px;
+	opacity: .8;
+}
+
+#footer{
+	padding:50px;
+	background: rgb(182,158,143);
+	font-weight: lighter;
+}
+
+.section {
+	text-align: center;
+	border-style: solid;
+	border-radius: .8;
+	border-width: 5px;
+}
+.section h4 {
+	font-family: 'Playfair Display', serif;
+	font-size: 50px;
+	text-align: center;}
+
+.section p {
+	font-family: 'Playfair Display', serif;
+	font-size: 15px;
+	text-align: center;}
+}
+
+
+
+
+
+
+
+
